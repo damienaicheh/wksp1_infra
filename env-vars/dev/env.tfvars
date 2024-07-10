@@ -1,5 +1,5 @@
 apim = {
   # Must be retreive dynamically  
-  name                = "TO_DEFINE"
-  resource_group_name = "TO_DEFINE"
+  name                = "apim-dev-no-hol-94ec-01"
+  resource_group_name = "rg-dev-no-hol-94ec-01"
 }
